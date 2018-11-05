@@ -84,8 +84,8 @@ Under which circumstances should you let a runtime exception abnormally terminat
 Which are the downsides of choosing a Scrum development model when designing and manufacturing a new CPU?
 
 - [ ] The frequent feedback from Scrum can be distracting when designing a complicated system
-- [ ] The design and requirements must be in place before starting the development process due to the difficulty of replacing millions of defective CPUs if customers discover an error
-- [ ] The cost of making a change to a mature prototype is very high
+- [x ] The design and requirements must be in place before starting the development process due to the difficulty of replacing millions of defective CPUs if customers discover an error
+- [ x] The cost of making a change to a mature prototype is very high
 - [ ] Breaking down the project into small features for small Scrum teams is not possible
 
 
@@ -95,7 +95,7 @@ Your Android app communicates with several servers, some of which return XML whi
 
 - [ ] Observer
 - [ ] Factory
-- [ ] Decorator
+- [ x ] Decorator
 - [ ] Singleton
 
 
@@ -106,7 +106,7 @@ Which of the following is true about software testing?
 - [ ] Tests are useful for refactoring
 - [ ] Testing proves that covered code has no bugs only if the tests pass
 - [ ] An application that has 100% test coverage is bug-free
-- [ ] Tests can help identify if a "solved" bug reappears in a later iteration of the code ("regression" bugs)
+- [ x ] Tests can help identify if a "solved" bug reappears in a later iteration of the code ("regression" bugs)
 
 
 ### Question 11
