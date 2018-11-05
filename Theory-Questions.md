@@ -15,18 +15,18 @@ An empty checkboxe will indicate that you did not finish answering the correspon
 Which of the following is _not_ a sign of software complexity?
 
 - [ ] Large number of methods
-- [ ] Large number of small components
-- [ ] Large number of component interactions
+- [x ] Large number of small components
+- [x ] Large number of component interactions
 
 
 ### Question 2
 
 Which of the following exceptions should be checked?
 
-- [ ] A request to a server that times out
-- [ ] A database query that attempts to retrieve data from a non-existent table
+- [ x] A request to a server that times out
+- [x ] A database query that attempts to retrieve data from a non-existent table
 - [ ] A user enters an invalid email address when signing up on a website
-- [ ] Your application requests a resource using a deprecated version of the API
+- [ x] Your application requests a resource using a deprecated version of the API
 
 
 ### Question 3
@@ -34,29 +34,29 @@ Which of the following exceptions should be checked?
 Which of the following is true about using the Scrum Agile development to develop an application?
 
 - [ ] It allows you to eliminate code comments because only a small team is responsible for the code. This allows the team to move faster
-- [ ] Team members may come from different backgrounds (e.g. Android developers, AppEngine server developers, and data scientists can be on the same team)
+- [x ] Team members may come from different backgrounds (e.g. Android developers, AppEngine server developers, and data scientists can be on the same team)
 - [ ] The Scrum master helps maximize the business value of the application by prioritizing the customer’s interests
-- [ ] The Daily Scrum is used to resolve any blocking issues that team members experience in the current sprint
+- [x ] The Daily Scrum is used to resolve any blocking issues that team members experience in the current sprint
 
 
 ### Question 4
 
 Which of the following is _always_ true about test-driven development (TDD)?
 
-- [ ] All tests must pass for a feature to be considered complete
+- [x ] All tests must pass for a feature to be considered complete
 - [ ] It is a good practice for designing the “look and feel” of your application (e.g. button sizes, fonts)
 - [ ] It is useful for developing new features on a large, legacy application
-- [ ] Tests should not be discarded after the feature is implemented
+- [x ] Tests should not be discarded after the feature is implemented
 
 
 ### Question 5
 
 Your application may receive "garbage input" if it does which of the following?
 
-- [ ] Reads a file
+- [x ] Reads a file
 - [ ] Writes a file
-- [ ] Reads data that it itself has previously written to memory
-- [ ] Has a command line interface
+- [x ] Reads data that it itself has previously written to memory
+- [x ] Has a command line interface
 
 
 ### Question 6
@@ -64,9 +64,9 @@ Your application may receive "garbage input" if it does which of the following?
 Which of the following are appropriate circumstances for adopting strict adherence to the waterfall development model?
 
 - [ ] Creating a new feature in an open source database (e.g. MySQL, Postgres) that is used by large companies.
-- [ ] Developing an operating system for an interstellar spacecraft
-- [ ] Building the Gotthard Base Tunnel
-- [ ] Creating a new Android application at a company with a large number of users (e.g. Facebook, Twitter).
+- [x ] Developing an operating system for an interstellar spacecraft
+- [x ] Building the Gotthard Base Tunnel
+- [x ] Creating a new Android application at a company with a large number of users (e.g. Facebook, Twitter).
 
 
 ### Question 7
@@ -76,7 +76,7 @@ Under which circumstances should you let a runtime exception abnormally terminat
 - [ ] A divide-by-0 calculation
 - [ ] A connection to a server times out when requesting a resource
 - [ ] A user specifies an incorrect command line argument
-- [ ] Not being able to load a necessary external library for your application
+- [x ] Not being able to load a necessary external library for your application
 
 
 ### Question 8
