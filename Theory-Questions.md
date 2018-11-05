@@ -14,7 +14,7 @@ An empty checkboxe will indicate that you did not finish answering the correspon
 
 Which of the following is _not_ a sign of software complexity?
 
-- [ ] Large number of methods
+- [ x ] Large number of methods
 - [ ] Large number of small components
 - [ ] Large number of component interactions
 
